@@ -1,0 +1,101 @@
+{
+  "version": 2,
+  "assets_version": 2,
+  "assets_mode": "github-assets-archive-video",
+  "state": "verified",
+  "source_kind": "legacy-archive",
+  "key": "20261006-000000-d18a490b",
+  "fingerprint": "28303f3c418840ae64ac9579948c01a60073e27ee6939e3a547304716b624d85",
+  "identifier": "20261006_000000_d18a490b_twitch_skipnho",
+  "archive_item": "7jantas-skipnho-20261006-legacy",
+  "duration": 14402.026667,
+  "r2_key": "2026-10-06 Part 1.mp4",
+  "r2_size": 13877869901,
+  "r2_etag": "c72510769bad6392fdcd6a7d89f19021-2647",
+  "video_url": "https://archive.org/download/7jantas-skipnho-20261006-legacy/part-01-256.mp4",
+  "chat_url": "https://raw.githubusercontent.com/CrazyinLov3/20261006_000000_d18a490b_twitch_skipnho/main/chat/merged.jsonl",
+  "chat_url_archive": "https://archive.org/download/7jantas-skipnho-20261006-legacy/part-01-256-chat.jsonl",
+  "cover_url": "https://raw.githubusercontent.com/CrazyinLov3/20261006_000000_d18a490b_twitch_skipnho/main/assets/cover.jpg",
+  "card_preview": "https://raw.githubusercontent.com/CrazyinLov3/20261006_000000_d18a490b_twitch_skipnho/main/assets/animated.webp",
+  "animated_cover": "https://raw.githubusercontent.com/CrazyinLov3/20261006_000000_d18a490b_twitch_skipnho/main/assets/animated.webp",
+  "preview_vtt": "https://raw.githubusercontent.com/CrazyinLov3/20261006_000000_d18a490b_twitch_skipnho/main/assets/thumbnails.vtt",
+  "previews_url": "https://raw.githubusercontent.com/CrazyinLov3/20261006_000000_d18a490b_twitch_skipnho/main/manifests/previews.json",
+  "preview_vtt_github": "https://raw.githubusercontent.com/CrazyinLov3/20261006_000000_d18a490b_twitch_skipnho/main/assets/thumbnails.vtt",
+  "previews_url_github": "https://raw.githubusercontent.com/CrazyinLov3/20261006_000000_d18a490b_twitch_skipnho/main/manifests/previews.json",
+  "previews_verified": true,
+  "files": {
+    "part-01-256.mp4": {
+      "size": 13877869901,
+      "md5": "21f3da0626c57bafddef0fd93e230a64",
+      "sha256": "70e7161f3d973bdd2e48ff152c484c0e48dfa6f01317f5b5b9afceea2f68eb17"
+    },
+    "part-01-256-chat.jsonl": {
+      "size": 1937105,
+      "md5": "e1acc88c8cfe813c6431f06ae34f5a37",
+      "sha256": "b4bad57c5b04f116bdf11edff06659180e752423bc07135befe631df1b5b0398"
+    },
+    "part-01-256-metadata.json": {
+      "size": 219,
+      "md5": "19905166f1b149177f539284df16cce6",
+      "sha256": "4c9989fcf7e408e399afc02a96e505e64fb799309432dd9f3a331414f84d68c4"
+    },
+    "part-01-256-checksums.sha256": {
+      "size": 263,
+      "md5": "2fc8c4ee9ce5b70b5eacd2ffd74c4459",
+      "sha256": "864f1370be3110de222641f58bc3a034c670680523848def0ddc006bbf131e8f"
+    }
+  },
+  "github_assets": {
+    "README.md": {
+      "blob": "d2fcdabfa21d4595e1a6eefbb70bb035f97aa3e8",
+      "md5": "14f9e41814a14eaea55e0f778ec91c20",
+      "size": 117
+    },
+    "assets/animated.webp": {
+      "blob": "b32b91b312faa308c6aea955d990a6483bc03420",
+      "md5": "9cfbc1553003ebc60b522797b1d9388c",
+      "size": 890910
+    },
+    "assets/cover.jpg": {
+      "blob": "ea59c662076cf074a1286cc39d2f3e8893292b9f",
+      "md5": "dd81d97ad258b38d8230e1306b5cf5ba",
+      "size": 14846
+    },
+    "assets/strips/sheet-0000.jpg": {
+      "blob": "f126aca3c9fe138e936bf628565ad6e36b7c7490",
+      "md5": "8f176e1f7140761913f9793081162415",
+      "size": 835463
+    },
+    "assets/strips/sheet-0001.jpg": {
+      "blob": "db390fd486f874df896135e4e2d1268d75407ca7",
+      "md5": "d37a58f841d28d8eaaf389a1167ebcd9",
+      "size": 984413
+    },
+    "assets/strips/sheet-0002.jpg": {
+      "blob": "81d23286346eb731992b75eef97534d5152964c0",
+      "md5": "b8061a96418374faefe30e843b64a7d1",
+      "size": 397580
+    },
+    "assets/thumbnails.vtt": {
+      "blob": "367ecfb73f67a3ff92f86f6e7ea9d87ad8c72f6e",
+      "md5": "9105e53bf187d3da987e0a3f20166fa2",
+      "size": 17891
+    },
+    "chat/merged.jsonl": {
+      "blob": "a3abd5b513ccebc01650d12d90a004deb3acfe3a",
+      "md5": "e1acc88c8cfe813c6431f06ae34f5a37",
+      "size": 1937105
+    },
+    "manifests/previews.json": {
+      "blob": "791a30687a7c08ef708d5b4113812cab38cba83f",
+      "md5": "6404c5c05bf4ef5f5bdd1e3989cf48b1",
+      "size": 57727
+    },
+    "manifests/recording.json": {
+      "size": 1062,
+      "md5": "bf2cb5fdf4ee63a40c5aea29f852f9d5",
+      "blob": "0d2f3714115fe66d7984d3fc8461d0abb55b2830"
+    }
+  },
+  "verified": 1793840661
+}
